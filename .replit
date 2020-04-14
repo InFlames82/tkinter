@@ -1,0 +1,2 @@
+language = "tkinter"
+run = "python3 9_1_grid_responsive.py"
